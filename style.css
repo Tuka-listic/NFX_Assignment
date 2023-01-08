@@ -1,0 +1,156 @@
+body{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  background-color: white;
+  text-emphasis-color: white;
+  border-spacing: 5px;
+  margin-top: 10px;
+}
+
+.story-container{
+  background-color: transparent;
+  color: black;
+  width: 100%;
+  text-decoration-color: aliceblue;
+}
+.story-header-wrapper{
+  margin-bottom: 50px;
+  justify-content: space-between;
+}
+.header-navigation{
+  float:right;
+
+}
+.our-story-card-container{
+  margin-top: 10px;
+  margin-left: auto;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  
+}
+
+
+.wrapper2{
+display:flex;
+justify-content: space-between;
+margin-top: 10px;
+background-color:aliceblue;
+
+}
+.nf-content-2{
+  font-size: 25px;
+  font-weight: normal;
+}
+.wrapper3{
+  display:flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  background-color:aliceblue;
+ }
+ .nf-content-3{
+  font-size: 25px;
+  font-weight: normal;
+ }
+ .wrapper4{
+  display:flex;
+  text-align: center;
+  justify-content: center;
+  padding-bottom: 40px;
+  margin-top: 10px;
+  background-color:aliceblue;
+ }
+.wrapper5{
+  display:flex;
+  justify-content: space-between;
+  padding-bottom: 20px;
+  padding-top:20px;
+  margin-top: 10px;
+  background-color:aliceblue;
+ }
+ .nf-content-5{
+  font-size: 25px;
+  font-weight: normal;
+ }
+ .pg6{
+  text-emphasis-color: white;
+  text-align: center;
+  background-color: aliceblue;
+} 
+
+
+.summary{
+  text-align: center;
+  padding-top: 20px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  gap: 280px;
+
+}
+.summary-A {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  gap: 130px;
+}
+
+.summary-B {
+  display: flex;
+  justify-content:center;
+  text-align: center;
+  gap: 250px;
+ }
+
+.summary-C {
+  display: flex;
+  justify-content: center;
+  text-align:center;
+  gap: 280px;
+}
+
+.summary-D {
+  display: flex;
+  justify-content:center;
+  text-align: center;
+  gap: 150px;
+}
+
+.summary-E {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  gap: 200px;
+}
+
+.summary-E-text{
+  text-align: center;
+}
+
+.wrapper7{
+  display:flex;
+  padding-bottom: 20px;
+  padding-top:20px;
+  margin-top: 10px;
+  background-color:aliceblue;
+
+}
+.info-text{
+  text-align: justify;
+}
+
+div.info-text-wrapper ol {
+  width: 30em;
+  list-style: none;
+  color:black;
+  position:absolute;
+  display: flex;
+  flex-direction:row;
+  justify-content: space-between;
+}
+ .ol li{
+float:left;
+width: 10em;
+}
+   
+
